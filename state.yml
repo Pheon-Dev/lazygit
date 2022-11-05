@@ -1,0 +1,14 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/pheon/.config/lazygit
+- /home/pheon/.config/nvim
+- /home/pheon/.config/arco-dwm
+- /home/pheon/.tmux
+- /home/pheon/.local/share/nvim/site/pack/packer/start/harpoon
+- /home/pheon/Documents/Neovim/harpoon
+- /home/pheon/.config/alacritty
+- /home/pheon/.config/zsh
+- /home/pheon/Documents/NextJS/App/destiny-credit
+startuppopupversion: 5
+customcommandshistory: []
+hidecommandlog: false
