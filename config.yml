@@ -83,7 +83,7 @@ keybinding:
   universal:
     quit: q
     quit-alt1: <c-c>
-    return: <esc>
+    return: h
     quitWithoutChangingDirectory: Q
     togglePanel: <tab>
     prevItem: <up>
@@ -98,10 +98,8 @@ keybinding:
     gotoBottom: ">"
     prevBlock: <left>
     nextBlock: <right>
-    prevBlock-alt: h
-    nextBlock-alt: l
-    nextBlock-alt2: <tab>
-    prevBlock-alt2: <backtab>
+    nextBlock-alt: <tab>
+    prevBlock-alt: <backtab>
     jumpToBlock:
       - "1"
       - "2"
@@ -114,7 +112,7 @@ keybinding:
     optionMenu: x
     optionMenu-alt1: "?"
     select: <space>
-    goInto: <enter>
+    goInto: l
     confirm: <enter>
     confirm-alt1: "y"
     remove: d
