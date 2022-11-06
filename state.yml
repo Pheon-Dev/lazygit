@@ -2,6 +2,7 @@ lastupdatecheck: 0
 recentrepos:
 - /home/pheon/.config/lazygit
 - /home/pheon/.config/nvim
+- /home/pheon/.local/share/nvim/site/pack/packer/start/dashboard-nvim
 - /home/pheon/.config/arco-dwm
 - /home/pheon/.tmux
 - /home/pheon/.local/share/nvim/site/pack/packer/start/harpoon
