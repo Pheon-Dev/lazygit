@@ -14,10 +14,10 @@ gui:
   theme:
     lightTheme: false
     activeBorderColor:
-      - green
+      - blue
       - bold
     inactiveBorderColor:
-      - white
+      - "#565656"
     optionsTextColor:
       - blue
     selectedLineBgColor:
