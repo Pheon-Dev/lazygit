@@ -82,8 +82,10 @@ quitOnTopLevelReturn: false
 keybinding:
   universal:
     quit: q
-    quit-alt1: <c-c>
+    quit-alt1: <esc>
+    quit-alt2: <c-c>
     return: h
+    return-alt1: <esc>
     quitWithoutChangingDirectory: Q
     togglePanel: <tab>
     prevItem: <up>
