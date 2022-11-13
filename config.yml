@@ -14,14 +14,14 @@ gui:
   theme:
     lightTheme: false
     activeBorderColor:
-      - "#565656"
+      - "#666666"
       - bold
     inactiveBorderColor:
       - "#363636"
     optionsTextColor:
       - blue
     selectedLineBgColor:
-      - "#2e2e2e"
+      - "#3f3f3f"
     selectedRangeBgColor:
       - reverse
     cherryPickedCommitBgColor:
