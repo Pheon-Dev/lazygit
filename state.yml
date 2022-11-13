@@ -2,13 +2,13 @@ lastupdatecheck: 0
 recentrepos:
 - /home/pheon/.config/lazygit
 - /home/pheon/.config/nvim
+- /home/pheon/.config/zsh
+- /home/pheon/.local/share/zap
+- /home/pheon/Documents/zsh/zap
+- /home/pheon/Documents/NextJS/App/destiny-credit
 - /home/pheon/.tmux
 - /home/pheon/.config/arco-dwm
-- /home/pheon/Documents/NextJS/App/destiny-credit
-- /home/pheon/Documents/zsh/zap
-- /home/pheon/.local/share/zap
 - /home/pheon/.config/zsh/bash_loading_animations
-- /home/pheon/.config/zsh
 - /home/pheon/Documents/NextJS/App/pheon-dev
 - /home/pheon/Documents/zsh/vim
 - /home/pheon/Documents/zsh/utils.plugin.zsh
