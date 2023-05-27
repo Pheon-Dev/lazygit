@@ -117,8 +117,8 @@ keybinding:
     scrollRight: 'L' # scroll right within list view
     prevBlock: '<left>' # goto the previous block / panel
     nextBlock: '<right>' # goto the next block / panel
-    prevBlock-alt: '<tab>' # 'h' goto the previous block / panel
-    nextBlock-alt: '<backtab>' # 'l' goto the next block / panel
+    prevBlock-alt: '<backtab>' # 'h' goto the previous block / panel
+    nextBlock-alt: '<tab>' # 'l' goto the next block / panel
     jumpToBlock: ['1', '2', '3', '4', '5'] # goto the Nth block / panel
     nextMatch: 'n'
     prevMatch: 'N'
