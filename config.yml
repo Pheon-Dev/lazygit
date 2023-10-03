@@ -9,27 +9,45 @@ gui:
     language: 'auto' # one of 'auto' | 'en' | 'zh' | 'pl' | 'nl' | 'ja' | 'ko'
     timeFormat: '02 Jan 06 15:04 MST' # https://pkg.go.dev/time#Time.Format
     theme:
+      # activeBorderColor:
+      #   - '#b4befe'
+      #   - bold
+      # inactiveBorderColor:
+      #   - '#a6adc8'
+      # optionsTextColor:
+      #   - '#89b4fa'
+      # selectedLineBgColor:
+      #   - '#313244'
+      # selectedRangeBgColor:
+      #   - '#313244'
+      # cherryPickedCommitBgColor:
+      #   - '#45475a'
+      # cherryPickedCommitFgColor:
+      #   - '#b4befe'
+      # unstagedChangesColor:
+      #   - '#f38ba8'
+      # defaultFgColor:
+      #   - '#cdd6f4'
+      # searchingActiveBorderColor:
+      #   - '#f9e2af'
+      lightTheme: false
       activeBorderColor:
-        - '#b4befe'
-        - bold
+          - "#bd93f9"
+          - bold
       inactiveBorderColor:
-        - '#a6adc8'
+          - "#545c7e"
       optionsTextColor:
-        - '#89b4fa'
+          - blue
       selectedLineBgColor:
-        - '#313244'
+          - "#545c7e"
       selectedRangeBgColor:
-        - '#313244'
+          - reverse
       cherryPickedCommitBgColor:
-        - '#45475a'
+          - red
       cherryPickedCommitFgColor:
-        - '#b4befe'
+          - blue
       unstagedChangesColor:
-        - '#f38ba8'
-      defaultFgColor:
-        - '#cdd6f4'
-      searchingActiveBorderColor:
-        - '#f9e2af'
+          - red
     commitLength:
       show: true
     mouseEvents: true
